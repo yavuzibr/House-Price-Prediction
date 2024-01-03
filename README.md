@@ -1,3 +1,4 @@
-# Linear-Regression
+# House Price Prediction with Real-World Data
 ## Purpose
-Purpose of this repo is to show my machine learning skills. 
+Predicting "House Loan Prices" using Turkish Websites and Google Maps.
+In this project we are looking prices at Ankara
