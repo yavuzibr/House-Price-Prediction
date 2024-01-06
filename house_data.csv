@@ -59,7 +59,7 @@ unique_id,date,district,adress,area_msquare,age,total_room,floor,price,distance_
 57,29/12/2023,Çubuk,Yýldýrým Beyazýt Mah,120,7,4,2,9650,3.1,2.5,No,No
 58,31/12/2023,Çubuk,Yavuz Selim Mah,130,23,4,1,7150,5.1,4.3,Yes,No
 59,26/12/2024,Çubuk,Barbaros Mah,120,3,4,4,11500,3.3,2.5,No,Yes
-60,04/01/2024,Çubuk,Yavuz Selim Mah,130,0,5,1,1,9500,4.6,3.8,No,Yes
+60,04/01/2024,Çubuk,Yavuz Selim Mah,130,0,5,1,9500,4.6,3.8,No,Yes
 61,25/12/2023,Çubuk,Cumhuriyet Mah,150,8,5,4,16000,1.6,0.9,No,Yes
 62,26/12/2023,Çubuk,Esenboða,150,8,5,1,11000,12.8,12,No,Yes
 63,23/12/2023,Çubuk,Akyurt/Yýldýrým Mah,130,4,5,3,12000,6.5,5.9,No,Yes
