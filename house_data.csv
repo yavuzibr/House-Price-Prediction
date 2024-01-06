@@ -1,4 +1,4 @@
-unique_id,date,district,adress,area_msquare,age,total_room,floor,price,distance_to_center,distance_to_hospital,within_the_site,elevator
+unique_id,date,district,address,area_msquare,age,total_room,floor,price,distance_to_center_km,distance_to_hospital_km,within_the_site,elevator
 0,01/01/2024,Pursaklar,Saray Fatih Mah,85,0,3,0,12500,5.3,5.1,No,Yes
 1,30/12/2023,Pursaklar,Mimar Sinan Cad,80,8,3,0,8000,2.2,1.5,No,No
 2,29/12/2023,Pursaklar,Altýnova Mah,105,8,3,1,12500,11.2,11,No,Yes
