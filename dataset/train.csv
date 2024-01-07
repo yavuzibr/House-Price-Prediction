@@ -44,7 +44,7 @@ unique_id,date,district,address,area_msquare,age,total_room,floor,price,distance
 42,01/01/2024,Cubuk,Esenboga,110,8,4,3,8000,12.5,12.1,No,Yes
 43,31/12/2023,Cubuk,Cumhuriyet Mah,175,4,4,3,14000,1.5,1,Yes,Yes
 44,31/12/2023,Cubuk,Yavuz Selim Mah,130,23,4,2,7600,4.8,4.2,Yes,No
-45,04/01/2024,Cubuk,Yavuz Selim Mah,130,0,5,1,1,9500,4.6,3.8,No,Yes
+45,04/01/2024,Cubuk,Yavuz Selim Mah,130,0,5,1,9500,4.6,3.8,No,Yes
 46,25/12/2023,Cubuk,Cumhuriyet Mah,150,8,5,4,16000,1.6,0.9,No,Yes
 47,26/12/2023,Cubuk,Esenboga,150,8,5,1,11000,12.8,12,No,Yes
 48,23/12/2023,Cubuk,Akyurt/Yildirim Mah,130,4,5,3,12000,6.5,5.9,No,Yes
