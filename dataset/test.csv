@@ -14,7 +14,7 @@ unique_id,date,district,address,area_msquare,age,total_room,floor,price,distance
 12,29/12/2023,Cubuk,Yildirim Beyazit Mah,120,7,4,2,9650,3.1,2.5,No,No
 13,31/12/2023,Cubuk,Yavuz Selim Mah,130,23,4,1,7150,5.1,4.3,Yes,No
 14,26/12/2024,Cubuk,Barbaros Mah,120,3,4,4,11500,3.3,2.5,No,Yes
-15,06/12/2023,Cubuk,Saray Cumhuriyet,145,5,2,15500,7.9,7.4,Yes,Yes
+15,06/12/2023,Cubuk,Saray Cumhuriyet,145,5,5,2,15500,7.9,7.4,Yes,Yes
 16,07/12/2023,Cubuk,Saray Fatih Mah,185,2,5,12,16500,6,5.2,No,Yes
 17,23/12/2023,Cubuk,Saray Fatih Mah,180,17,5,7,14500,6.1,5.3,No,Yes
 18,10/12/2023,Kecioren,Ufuktepe/Pinarbasi,75,23,3,0,8000,2.8,1.9,No,No
