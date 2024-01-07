@@ -26,7 +26,7 @@ unique_id,date,district,address,area_msquare,age,total_room,floor,price,distance
 24,18/12/2023,Kecioren,Osmangazi Cad,165,4,5,3,16000,1.6,1.7,No,Yes
 25,19/12/2023,Kecioren,Ufuktepe/Atapark,130,4,5,1,13750,1.4,1.8,No,Yes
 26,12/12/2023,Kecioren,Baglum/Karakaya,120,4,5,1,10000,6.2,6.6,No,Yes
-27,06/12/2023,Cubuk,Saray Cumhuriyet,145,5,2,15500,7.9,7.4,Yes,Yes
+27,06/12/2023,Cubuk,Saray Cumhuriyet,145,5,5,2,15500,7.9,7.4,Yes,Yes
 28,07/12/2023,Cubuk,Saray Fatih Mah,185,2,5,12,16500,6,5.2,No,Yes
 29,23/12/2023,Cubuk,Saray Fatih Mah,180,17,5,7,14500,6.1,5.3,No,Yes
 30,10/12/2023,Kecioren,Ufuktepe/Pinarbasi,75,23,3,0,8000,2.8,1.9,No,No
